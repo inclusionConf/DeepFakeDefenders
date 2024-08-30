@@ -4,5 +4,5 @@ Inclusion・The Global Multimedia Deepfake Detection encourages participants to 
 
 We call on participants to release your own detection code on github and name your own repository DeepFakeDefenders. We will organize all the open source repositories on our github home page.
 
-Anyone has already released your deepfake detection code can feedback in the issue and we'll update it to the home page.
+Any participant has already released your deepfake detection code can feedback in the issue and we'll update it to the home page.
 
