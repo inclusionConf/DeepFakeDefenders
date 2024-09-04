@@ -9,3 +9,6 @@ Any participant has already released your deepfake detection code can feedback i
 ## Repositories List
 [https://github.com/VisionRush/DeepFakeDefenders](https://github.com/VisionRush/DeepFakeDefenders)
 by Team VisionRush, from Institute of Automation, Chinese Academy of Sciences
+
+[https://github.com/HighwayWu/DeepFakeDefenders](https://github.com/HighwayWu/DeepFakeDefenders)
+by Team JTGroup, from University of Macau
